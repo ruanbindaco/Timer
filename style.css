@@ -1,0 +1,21 @@
+body {
+  background: top center #000000;
+ }
+.css1 {
+  text-align: center;
+  border: 3px solid green;
+  background: white;
+  
+}
+.css2 {
+  text-align: center;
+}
+
+.button1 {
+  background-color: white;
+  }
+
+.button1:hover {
+  background-color: green;
+  color: white;
+}
